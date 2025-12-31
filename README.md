@@ -314,3 +314,129 @@ from unvalidated decisions —
 by ensuring that every action passes
 rules, ethics, and control
 before it is allowed to exist."
+# RBM – Frequently Asked Questions (FAQ)
+
+## Q1: Is RBM a programming language?
+No.
+RBM (Rule-Based Mind) is NOT a programming language.
+It is an ethics-first decision framework that can be applied on top of any
+programming language, system, or human decision process.
+
+RBM decides WHETHER an action is allowed.
+The underlying system decides HOW the action is executed.
+
+---
+
+## Q2: Does RBM slow down systems?
+Yes — intentionally.
+
+RBM does not optimize for speed.
+RBM optimizes for correctness, ethics, and responsibility.
+
+If speed conflicts with safety or ethics, RBM denies execution.
+
+---
+
+## Q3: Can RBM override ethics in emergency situations?
+No.
+
+Ethics has the highest priority in RBM.
+No emergency, authority, or intelligence can bypass ethical validation.
+
+If ethics fails, execution is denied permanently.
+
+---
+
+## Q4: Can RBM modify its own rules?
+No.
+
+RBM is explicitly non-self-modifying.
+Allowing self-modification would create uncontrolled behavior.
+
+Rules can only be changed by external, accountable human governance.
+
+---
+
+## Q5: Is RBM suitable for AI systems?
+Yes.
+
+RBM is designed for:
+- AI decision engines
+- Autonomous agents
+- Safety layers
+- AI governance and alignment
+
+RBM prevents AI from executing actions that are unethical,
+unauthorized, or uncontrolled.
+
+---
+
+## Q6: Can RBM be used by humans?
+Yes.
+
+RBM applies equally to:
+- Human decisions
+- Leadership and authority
+- Governance and justice
+- Conflict resolution
+
+No human decision is above ethics in RBM.
+
+---
+
+## Q7: Does RBM replace existing laws or systems?
+No.
+
+RBM does not replace systems.
+RBM acts as a validation layer before execution.
+
+It can work alongside:
+- Legal systems
+- Technical systems
+- Organizational rules
+- Security frameworks
+
+---
+
+## Q8: Who controls RBM?
+RBM itself does not execute control.
+Control is verified, not owned.
+
+Authority must be:
+- Explicit
+- Accountable
+- Auditable
+
+RBM denies execution if authority is unclear or unsafe.
+
+---
+
+## Q9: Can RBM be misused?
+RBM is designed to prevent misuse.
+
+Misuse typically occurs due to:
+- Ignoring ethics
+- Bypassing control
+- Speed over responsibility
+
+RBM blocks all three by design.
+
+---
+
+## Q10: What is the core belief of RBM?
+Execution is not a right.
+Execution is a permission.
+
+Permission must be earned through:
+- Rules
+- Ethics
+- Control
+
+RBM enforces this belief strictly.
+
+---
+
+## Final Note
+RBM is conservative by design.
+RBM exists to protect life, systems, and society
+from unvalidated decisions — human or artificial.

@@ -12,3 +12,4 @@ Observation → Rule → Ethics → Control → Result
 
 RBM ensures that no action is executed
 without passing ethical and control validation.
+RBM is a universal rule-based decision framework designed to guide both human and AI actions with ethics, control, and accountability at its core.

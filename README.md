@@ -113,3 +113,50 @@ Ranchi, Jharkhand, India
 
 RBM does not optimize for speed.
 RBM optimizes for correctness and responsibility.
+# RBM Rules (Rule-Based Mind)
+
+## Rule Priority Order
+
+1. Ethics Rule (Highest Priority)
+2. Control Rule
+3. System Rule
+4. Execution Rule (Lowest Priority)
+
+---
+
+## Ethics Rules (Hard Stop)
+
+- Any action causing harm to human life is DENIED
+- Any action violating justice or equality is DENIED
+- Any action bypassing ethical validation is DENIED
+- Ethics failure results in permanent execution stop
+
+---
+
+## Control Rules
+
+- Action must have valid authority
+- Action must have explicit permission
+- Action must pass safety verification
+- Control failure results in execution denial
+
+---
+
+## System Rules
+
+- RBM does not self-modify rules
+- RBM does not override ethics
+- RBM does not execute undefined actions
+
+---
+
+## Execution Rules
+
+- Execute only if ALL rules pass
+- Deny immediately if ANY rule fails
+
+---
+
+## Final Guarantee
+
+"RBM guarantees that no action is executed without ethics, control, and rule alignment."

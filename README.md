@@ -87,3 +87,29 @@ RBM is independent of any programming language or technology stack.
 ## Author
 RaimondBASANT Minz  
 Ranchi, Jharkhand, India
+# RBM Flow (Rule-Based Mind)
+
+## Flow Structure
+
+1. Observation
+   - Input detected (human or system)
+
+2. Rule Check
+   - Predefined rules are evaluated
+
+3. Ethics Validation
+   - Action is checked against ethical boundaries
+
+4. Control Verification
+   - Authority, permission, and safety validation
+
+5. Execution / Denial
+   - If all checks pass → Execute
+   - If any check fails → Deny
+
+## Core Logic
+
+"No execution without rule, ethics, and control alignment."
+
+RBM does not optimize for speed.
+RBM optimizes for correctness and responsibility.

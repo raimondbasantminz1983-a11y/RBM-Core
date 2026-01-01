@@ -440,3 +440,4 @@ RBM enforces this belief strictly.
 RBM is conservative by design.
 RBM exists to protect life, systems, and society
 from unvalidated decisions — human or artificial.
+- 📜 [RBM Governance Framework(RBM-GOVERNANCE.md)
